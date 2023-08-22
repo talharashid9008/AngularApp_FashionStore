@@ -1,0 +1,25 @@
+.nav-bar{
+    display: flex;
+    background-color: #f3bf13;
+    border-radius: 10px;
+}
+.site-name{
+    padding: 0px 40px;
+    color: #c51e0b;
+}
+.site-menu{
+    align-items: right;
+    padding: 25px 30px;
+    color:aqua;
+}
+a{
+    text-decoration: none;
+    color: #212f3d;
+    margin: 0px 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+  a:hover {
+    background-color: #f4e217; /* Set the background color for when the button is hovered */
+  }
+  

@@ -1,0 +1,19 @@
+.header{
+    height: 280px;
+    padding: 30px 40px;
+    display: flex;
+    border-radius: 5px;
+}
+.rounded-image{
+    border-radius: 5px;
+}
+.site-slogan{
+    padding: 50px 0px;
+    height: 150px;
+    margin-left: 50px;
+    text-align: center;
+}
+h2{
+    font-size: 45px;
+    color: rgb(173, 5, 33);
+}
